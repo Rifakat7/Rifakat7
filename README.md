@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **MERN STACK**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **rifaqat00786@gmail.com**
 
