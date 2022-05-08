@@ -12,7 +12,7 @@
 - 📫 How to reach me **rifaqat00786@gmail.com**
 
 - 📄 Know about my experiences at [Resume](https://docs.google.com/document/d/1sUvSB3hLEdbmK5LIUwsEtT5FGnjikgF_Pb4sck3CA-A/edit?usp=sharing)
-
+<br><br><br><br><br>
 <h3 style="margin-top: 100px;padding-left: 580px;">Connect with me:</h3>
 <p style="text-align: center;padding-left: 360px;" >
 <a href="https://twitter.com/rifakathusain71" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rifakathusain71" height="30" width="40" /></a>
