@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+
     <h1 align="center">Hi 👋, I'm Rifakat Husain</h1>
 <h5 align="center">Aspiring Full-Stack Web Developer with a specialisation in MERN stack. Passion for learning with an endless supply of optimism and curiosity. Looking forward to enhancing and utilising my skills and knowledge by working in a challenging work environment.</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1008970/screenshots/6251310/blog_post_js.gif">
@@ -38,5 +30,3 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rifakat7&" alt="rifakat7" /></p>
 
-</body>
-</html>
