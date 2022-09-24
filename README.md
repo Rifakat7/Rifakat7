@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rifaqat00786@gmail.com**
 
-- 📄 Know about my experiences at [Resume](https://docs.google.com/document/d/1sUvSB3hLEdbmK5LIUwsEtT5FGnjikgF_Pb4sck3CA-A/edit?usp=sharing)
+- 📄 Know about my experiences at [Resume](https://drive.google.com/drive/folders/1-BMwC6J-6ajMGoFfjfBNDyVS6uExi4Ex?usp=sharing)
 <br><br><br><br><br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
