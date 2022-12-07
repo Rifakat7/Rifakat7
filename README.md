@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rifakat Husain</h1>
 <h5 align="center">Full-Stack Web Developer with a specialisation in MERN stack. Passion for learning with an endless supply of optimism and curiosity. Looking forward to enhancing and utilising my skills and knowledge by working in a challenging work environment.</h5>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1008970/screenshots/6251310/blog_post_js.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifakat7&label=Profile%20views&color=0e75b6&style=flat" alt="rifakat7" /> </p>
 
