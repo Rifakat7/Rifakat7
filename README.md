@@ -16,8 +16,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/rifakathusain77" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="https://twitter.com/rifakathusain77" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rifakat-husain/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rifakat-husain/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/husain.rifaqat/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/husain.rifaqat/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rifakat-husain/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/rifakat-husain/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/husain.rifaqat/" target="blank"><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg" alt="https://www.instagram.com/husain.rifaqat/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
