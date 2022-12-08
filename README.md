@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://twitter.com/rifakathusain77" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="https://twitter.com/rifakathusain77" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rifakat-husain/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/rifakat-husain/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/husain.rifaqat/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="https://www.instagram.com/husain.rifaqat/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohammadrafaqat7/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="https://mohammadrafaqat7" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
